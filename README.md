@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hey there, I’m Hari Adapala  
+# 👋 Hey there, I’m Hari Adapala
 
 🎓 **Information Technology Graduate** from Arizona State University  
 💡 I build impactful, user-focused solutions — from **AI-powered agents** to **full-stack web apps**  
-🔍 Passionate about **problem-solving**, **automation**, and **modern tech stacks**  
+🔍 Passionate about **problem-solving**, **automation**, and **modern tech stacks**
 
 ---
 
@@ -31,15 +31,19 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 Connect
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadapala333@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 
 ---
 
 ### 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=haritejaadapala&theme=dark&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haritejaadapala&theme=dark&hide_border=true&layout=compact)
+<!-- These are the two you wanted to KEEP -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haritejaadapala&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=haritejaadapala&theme=github_dark" />
+
+<!-- Fallback for streak if the above ever fails:
+https://streak-stats.demolab.com/?user=haritejaadapala&theme=dark&hide_border=true
+-->
 
 ---
 
@@ -58,4 +62,4 @@
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Removed: github-readme-stats main card, Top Languages card, and nirzak streak stats -->
