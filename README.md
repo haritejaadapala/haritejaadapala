@@ -15,7 +15,7 @@
 const developer = {
     name: "Hari Adapala",
     education: "Information Technology @ Arizona State University",
-    specialization: ["AI/ML Engineering", "Cloud Architecture", "Cybersecurity"],
+    specialization: ["AI/ML Engineering", "Full-Stack Engineering", "Cloud Architecture", "Cybersecurity"],
     currentFocus: "Building intelligent multi-agent systems",
     mission: "Creating technology that enhances human capabilities"
 };
