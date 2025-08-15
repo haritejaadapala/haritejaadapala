@@ -1,5 +1,103 @@
 # 💫 About Me:
-Hari Adapala<br><br>🎓 Information Technology Graduate from Arizona State University | Cybersecurity, Cloud Computing & Software Development Enthusiast<br>💡 I love turning ideas into impactful, user-focused solutions — from AI-powered agents to full-stack web apps.<br>🔍 Passionate about problem-solving, automation, and modern tech stacks.<br>📂 My portfolio includes projects like:<br><br>🩺 Medical Reminder Agent – AI-driven healthcare assistant with task scheduling & natural language understanding.<br><br>🏢 BizOps Automation Tools – Streamlining operations with data pipelines & dashboards.<br><br>🏺 Ryan Ghertner Ceramics Website – A sleek, artistic storefront built before the client transitioned to independent vending.<br><br>👁 Keratoplasty Patient Monitoring Agent – Multi-agent system with empathetic patient interaction & RAG-based knowledge retrieval.<br><br>⚙️ Tech Stack: Python, JavaScript/TypeScript, React.js, Node.js, Flask, MySQL, AWS, Docker, LangChain, CrewAI<br>🌐 Languages: English, Hindi, Telugu<br><br>📫 Let's Connect:<br> Email 
+
+<div align="center">
+
+### 🚀 Hari Adapala
+**AI Engineer & Full-Stack Developer**
+
+*Transforming complex problems into intelligent solutions*
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+Intelligent+Multi-Agent+Systems;Cloud+Architecture+%26+Automation+Expert;Turning+Ideas+Into+Impact)
+
+</div>
+
+```javascript
+const developer = {
+    name: "Hari Adapala",
+    education: "Information Technology @ Arizona State University",
+    specialization: ["AI/ML Engineering", "Cloud Architecture", "Cybersecurity"],
+    currentFocus: "Building intelligent multi-agent systems",
+    mission: "Creating technology that enhances human capabilities"
+};
+```
+
+🎯 **What drives me:** I'm passionate about bridging the gap between cutting-edge AI research and real-world applications. Whether it's developing empathetic healthcare agents or automating complex business workflows, I believe technology should solve meaningful problems and improve lives.
+
+### 🧠 **Core Expertise & Innovation Areas**
+
+<table>
+<tr>
+<td width="25%">
+
+**🤖 AI/ML Engineering**
+- Multi-agent system architecture
+- Natural language processing
+- RAG implementation & optimization
+- LangChain & CrewAI orchestration
+- Empathetic AI design patterns
+
+</td>
+<td width="25%">
+
+**💻 Full-Stack Development**
+- React.js/Next.js frontend mastery
+- Node.js & Python backend systems
+- RESTful API design & GraphQL
+- Database optimization (SQL/NoSQL)
+- Real-time web applications
+
+</td>
+<td width="25%">
+
+**☁️ Cloud & Infrastructure**
+- AWS/Azure cloud architecture
+- Containerization with Docker
+- CI/CD pipeline automation
+- Scalable microservices design
+- Infrastructure as Code (IaC)
+
+</td>
+<td width="25%">
+
+**🔒 Security & Automation**
+- Cybersecurity best practices
+- Automated vulnerability scanning
+- Secure API development
+- Business process automation
+- Data pipeline optimization
+
+</td>
+</tr>
+</table>
+
+### 🚀 **What I'm Building**
+
+```python
+class CurrentProjects:
+    def __init__(self):
+        self.healthcare_ai = "Intelligent patient monitoring systems"
+        self.automation_tools = "Enterprise workflow optimization"
+        self.web_solutions = "Full-stack applications with AI integration"
+        self.research = "Multi-agent collaboration frameworks"
+    
+    def get_impact(self):
+        return "Creating technology that scales human capabilities"
+```
+
+### 🎯 **Current Focus Areas**
+- 🤖 **Multi-Agent Systems:** Designing collaborative AI agents for complex problem-solving
+- ☁️ **Cloud-Native Development:** Building scalable, resilient applications on AWS/Azure
+- 🔒 **Secure AI:** Implementing robust security practices in AI-driven applications
+- 🧠 **LangChain & CrewAI:** Advanced prompt engineering and agent orchestration
+
+### 🌟 **Technical Philosophy**
+*"The best technology is invisible to the user but transformative in impact"*
+
+I believe in writing clean, maintainable code that solves real problems. My approach combines technical excellence with user empathy, ensuring that every solution I build is both powerful and accessible.
+
+**🗣️ Languages:** English, Hindi, Telugu  
+**🎓 Background:** Information Technology with focus on AI, Cybersecurity & Cloud Computing  
+**📍 Expertise:** Full-stack development, AI/ML engineering, system design, automation 
 
 
 ## 🌐 Socials:
