@@ -1,65 +1,20 @@
-<div align="center">
+# 💫 About Me:
+Hari Adapala<br><br>🎓 Information Technology Graduate from Arizona State University | Cybersecurity, Cloud Computing & Software Development Enthusiast<br>💡 I love turning ideas into impactful, user-focused solutions — from AI-powered agents to full-stack web apps.<br>🔍 Passionate about problem-solving, automation, and modern tech stacks.<br>📂 My portfolio includes projects like:<br><br>🩺 Medical Reminder Agent – AI-driven healthcare assistant with task scheduling & natural language understanding.<br><br>🏢 BizOps Automation Tools – Streamlining operations with data pipelines & dashboards.<br><br>🏺 Ryan Ghertner Ceramics Website – A sleek, artistic storefront built before the client transitioned to independent vending.<br><br>👁 Keratoplasty Patient Monitoring Agent – Multi-agent system with empathetic patient interaction & RAG-based knowledge retrieval.<br><br>⚙️ Tech Stack: Python, JavaScript/TypeScript, React.js, Node.js, Flask, MySQL, AWS, Docker, LangChain, CrewAI<br>🌐 Languages: English, Hindi, Telugu<br><br>📫 Let's Connect:<br> Email 
 
-# 👋 Hey there, I’m Hari Adapala
 
-🎓 **Information Technology Graduate** from Arizona State University  
-💡 I build impactful, user-focused solutions — from **AI-powered agents** to **full-stack web apps**  
-🔍 Passionate about **problem-solving**, **automation**, and **modern tech stacks**
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadapala333@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=plastic&logo=three.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-### 📂 Featured Projects
-🩺 **Medical Reminder Agent** – AI-driven healthcare assistant with task scheduling & natural language understanding  
-🏢 **BizOps Automation Tools** – Streamlining operations with data pipelines & dashboards  
-🏺 **Ryan Ghertner Ceramics Website** – Artistic storefront built before client transitioned to independent vending  
-👁 **Keratoplasty Patient Monitoring Agent** – Multi-agent system with empathetic patient interaction & RAG retrieval  
-
----
-
-### ⚙️ Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%2300bcd4.svg?style=plastic&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-%2300bcd4.svg?style=plastic&logo=robotframework&logoColor=white)
-
----
-
-### 🌐 Connect
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hadapala333@gmail.com)
-
----
-
-### 📊 GitHub Stats
-<!-- These are the two you wanted to KEEP -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haritejaadapala&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/streak?username=haritejaadapala&theme=github_dark" />
-
-<!-- Fallback for streak if the above ever fails:
-https://streak-stats.demolab.com/?user=haritejaadapala&theme=dark&hide_border=true
--->
-
----
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=haritejaadapala&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-### 🔝 Top Contributed Repos
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=haritejaadapala&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
-
-<!-- Removed: github-readme-stats main card, Top Languages card, and nirzak streak stats -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
